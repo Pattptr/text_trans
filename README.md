@@ -1,2 +1,2 @@
 # text_trans
-translator API
+translator API using googletrans
